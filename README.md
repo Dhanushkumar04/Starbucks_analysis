@@ -11,7 +11,7 @@ The project uses two datasets — `starbucks.csv` and `directory.csv` — to exp
 
 ## Dashboard Preview
 
-![Starbucks Power BI Dashboard](images/dashboard.png)
+<img width="1331" height="742" alt="image" src="https://github.com/user-attachments/assets/b244d976-6328-4d04-bee7-bae5d1721760" />
 
 ## Datasets
 
